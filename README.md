@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/will3g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will3g&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will3g&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=will3g&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,10 +37,10 @@
  
 <div> 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=will3g&repo=Wallet-Report-Frontend&theme=dracula)](https://github.com/will3g/Wallet-Report-Frontend)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=will3g&repo=Wallet-Report-API&theme=midnight-purple)](https://github.com/will3g/Wallet-Report-API)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=will3g&repo=ByteBank&theme=vision-friendly-dark)](https://github.com/will3g/ByteBank)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=will3g&repo=AirCnC&theme=merko )](https://github.com/will3g/AirCnC)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=will3g&repo=Python-with-GraphQL-Template&theme=jolly)](https://github.com/will3g/Python-with-GraphQL-Template)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=will3g&repo=Learning-3D-components&theme=cobalt)](https://github.com/will3g/Learning-3D-components)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&repo=Wallet-Report-Frontend&theme=dracula)](https://github.com/will3g/Wallet-Report-Frontend)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&repo=Wallet-Report-API&theme=midnight-purple)](https://github.com/will3g/Wallet-Report-API)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&repo=ByteBank&theme=vision-friendly-dark)](https://github.com/will3g/ByteBank)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&repo=AirCnC&theme=merko )](https://github.com/will3g/AirCnC)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&repo=Python-with-GraphQL-Template&theme=jolly)](https://github.com/will3g/Python-with-GraphQL-Template)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api?username=will3g&repo=Learning-3D-components&theme=cobalt)](https://github.com/will3g/Learning-3D-components)
 </div>
