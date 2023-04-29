@@ -34,11 +34,3 @@
 </div>
 
   ##
- 
-<div> 
-
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=will3g&repo=Wallet-Report-API&theme=midnight-purple)](https://github.com/will3g/Wallet-Report-API)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=will3g&repo=ByteBank&theme=vision-friendly-dark)](https://github.com/will3g/ByteBank)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=will3g&repo=Python-with-GraphQL-Template&theme=jolly)](https://github.com/will3g/Python-with-GraphQL-Template)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=will3g&repo=GoChatAI&theme=cobalt)](https://github.com/will3g/GoChatAI)
-</div>
